@@ -1,0 +1,118 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+    font-family: monospace;
+}
+.row
+{
+    max-width: 1200px;
+    height: 150px;
+    margin: auto;
+}
+
+
+.main-nav li
+{
+    display: inline-block;
+}
+
+.main-nav li.active a
+{
+    border: 1px solid white;
+
+}
+
+.main-nav li a:hover
+{
+    border: 1px solid white;
+}
+
+
+.main-nav li a
+{   position: sticky;
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+
+.hero{
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(pic1.jpg);
+  height:497px;
+  top: 15%;
+  margin-top: 0px;
+  text-align: center;
+  padding:80px;
+  font-size: 18px;
+}
+
+
+h1
+{
+    color: white;
+    text-transform: uppercase;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 275px;
+
+}
+h2{
+  font-size: 50px;
+  font-style: italic;
+    line-height: 2
+}
+h3{
+    line-height: 2
+}
+p{
+  font-size: 20px;
+  line-height: 2
+}
+header
+{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(pic1.jpg);
+    background-size: cover;
+    background-position: center;
+
+    position:fixed;
+    padding: 20px;
+    list-style: none;
+    margin-top: 10px;
+
+}
+
+
+.btn
+{
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+.btn-two
+{
+    font-family: "Roboto", sans-serif;
+
+}
+
+
+.btn-two:hover
+{
+    background-color: darkorange;
+    transition: all 0.5s ease-in;
+
+}
+
+
+
+.logo img
+{
+    width: 100px;
+    height: auto;
+}

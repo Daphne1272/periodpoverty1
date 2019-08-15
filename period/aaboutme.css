@@ -1,0 +1,260 @@
+.row
+{
+    max-width: 1200px;
+    height: 150px;
+    margin: auto;
+}
+
+.main-nav
+{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+    position: sticky;
+}
+.main-nav li
+{   position: sticky;
+    display: inline-block;
+}
+
+.main-nav li.active a
+{
+    border: 1px solid white;
+
+}
+
+.main-nav li a:hover
+{
+    border: 1px solid white;
+}
+
+
+.main-nav li a
+{   position: sticky;
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+
+header
+{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(pic1.jpg);
+    height: 10vh;
+    background-size: cover;
+    background-position: center;
+}
+body{
+  margin: 0;
+  padding: 0;
+  background: url(https://i.pinimg.com/originals/0a/ea/53/0aea5347eff4afb69bfab93b39a21873.jpg) no-repeat;
+  background-size: cover;
+
+}
+.box{
+  width: 450px;
+  background: rgba(0,0,0,0.4)
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color:white;
+  font-family: 'Century Gothc', sans-serif;
+}
+.box-img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.box h1{
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100;
+}
+.box h5{
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+.box.p{
+  text-align: justify;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+.box li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+.box li{
+  color:white;
+  text-decoration: none;
+  font-size: 20px;
+  transition: all ease-in-out 250ms;
+}
+.box li a:hover{
+  color: #b9b9b9;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background: url(https://i.pinimg.com/originals/0a/ea/53/0aea5347eff4afb69bfab93b39a21873.jpg) no-repeat;
+  background-size: cover;
+
+}
+.box{
+  width: 450px;
+  background: rgba(0,0,0,0.4)
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%
+  color:white;
+  font-family: 'Century Gothc', sans-serif;
+}
+.box-img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.box h1{
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100;
+}
+.box h5{
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+.box.p{
+  text-align: justify;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+.box li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+.box li{
+  color:white;
+  text-decoration: none;
+  font-size: 20px;
+  transition: all ease-in-out 250ms;
+}
+.box li a:hover{
+  color: #b9b9b9;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background: url(https://i.pinimg.com/originals/0a/ea/53/0aea5347eff4afb69bfab93b39a21873.jpg) no-repeat;
+  background-size: cover;
+
+}
+.box{
+  width: 450px;
+  background: rgba(0,0,0,0.4)
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color:white;
+  font-family: 'Century Gothc', sans-serif;
+}
+.box-img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.box h1{
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100;
+}
+.box h5{
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+.box.p{
+  text-align: justify;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+.box li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+.box li{
+  color:white;
+  text-decoration: none;
+  font-size: 20px;
+  transition: all ease-in-out 250ms;
+}
+.box li a:hover{
+  color: #b9b9b9;
+}
+body{
+  margin: 0;
+  padding: 0;
+  background: url(https://i.pinimg.com/originals/0a/ea/53/0aea5347eff4afb69bfab93b39a21873.jpg) no-repeat;
+  background-size: cover;
+
+}
+.box{
+  width: 450px;
+  background: rgba(0,0,0,0.4)
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color:white;
+  font-family: 'Century Gothc', sans-serif;
+}
+.box-img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.box h1{
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100;
+}
+.box h5{
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+.box.p{
+  text-align: justify;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+.box li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+.box li{
+  color:white;
+  text-decoration: none;
+  font-size: 20px;
+  transition: all ease-in-out 250ms;
+}
+.box li a:hover{
+  color: #b9b9b9;
